@@ -1,4 +1,11 @@
 # Unity-Find-Greater
+## Gameplay Video 
+
+
+https://user-images.githubusercontent.com/79158705/157451491-ea3e3071-25ce-4b12-a805-5b83e3cc5956.mp4
+
+
+## Gameplay Screenshots
 ![Start](https://user-images.githubusercontent.com/79158705/157445462-09b3cf03-4420-4a4a-bee4-a5857f3ff3d4.png)
 ![Start Game](https://user-images.githubusercontent.com/79158705/157445503-00720064-3920-464b-864e-fc2fa6fccbaa.png)
 ![Gameplay](https://user-images.githubusercontent.com/79158705/157445518-76bd7120-467a-4f96-a001-da566679f096.png)
