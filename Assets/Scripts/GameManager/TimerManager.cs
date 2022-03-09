@@ -21,7 +21,7 @@ public class TimerManager : MonoBehaviour
 
     private void Start()
     {
-        kalanSure = 10;
+        kalanSure = 90;
 
         sureSayisinmi = true;
     }
